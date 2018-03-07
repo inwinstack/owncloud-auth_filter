@@ -12,7 +12,6 @@
 namespace OCA\Auth_Filter\AppInfo;
 
 use OCP\AppFramework\App;
-use OCA\Auth_Filter\Middleware\TanetAuthMiddleware; 
 
 class Application extends App {
     /**
